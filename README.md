@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dabailey2009
-- 👀 I’m interested in pretty much everything - but linguistics, rugby, travel, literature, science & technology, philosophy
+- 👀 I’m interested in pretty much everything - but linguistics, rugby, travel, literature, science & technology, philosophy especially
 - 🌱 I’m currently learning python, home assistant, web stuff & IoT/IIoT 
-- 💞️ I’m looking to collaborate on try me!
+- 💞️ I’m looking to collaborate anything embedded and connected
 - 📫 How to reach me davidjamesbailey71@gmail.com
 
 <!---
